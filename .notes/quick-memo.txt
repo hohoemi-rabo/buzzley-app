@@ -1,0 +1,21 @@
+# クイックメモ
+# ============================================
+# ここは一時的なメモや走り書き用のファイルです
+# 整理せずに自由に書いてください
+# ============================================
+
+  作成したチケット一覧：
+
+  1. 001-environment-setup.md - 環境構築とプロジェクトセットアップ
+  2. 002-twitch-api-integration.md - Twitch API統合
+  3. 003-search-filter-feature.md - 検索・フィルタ機能
+  4. 004-sort-feature.md - ソート機能
+  5. 005-stream-display-component.md - 配信情報表示コンポーネント
+  6. 006-infinite-scroll.md - 無限スクロール実装
+  7. 007-real-time-update.md - リアルタイム更新機能
+  8. 008-buzz-detection-logic.md - バズり判定ロジック
+  9. 009-ui-design-system.md - UIデザインシステム
+  10. 010-landing-page.md - ランディングページ
+  11. 011-performance-optimization.md - パフォーマンス最適化
+  12. 012-error-handling.md - エラーハンドリング
+  13. 013-analytics-setup.md - アナリティクス導入
